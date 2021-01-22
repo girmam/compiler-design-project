@@ -1,0 +1,8 @@
+/SixtyFortran.interp
+/SixtyFortran.tokens
+/SixtyFortranBaseVisitor.java
+/SixtyFortranLexer.interp
+/SixtyFortranLexer.java
+/SixtyFortranLexer.tokens
+/SixtyFortranParser.java
+/SixtyFortranVisitor.java
